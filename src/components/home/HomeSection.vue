@@ -1,15 +1,12 @@
 <template>
-  <section class="home" id="home">
+  <section class="home" id="home" dir="rtl">
     <div>
       <h2>
-        Hello, I'm Yaman
+        Welcome to
         <br />
-        <span>Freelancer</span>
+        <span>Yaman Website</span>
       </h2>
-      <h3>
-        ❝A man who stands for nothing will fall for anything❞
-        <span>-Malcolm X</span>
-      </h3>
+      <h3>Programmer, Video Editor, Designer, Freelancer</h3>
       <a
         href="https://drive.google.com/drive/folders/147lYgZwdTm_D26ReLPeTqziyq2BRZ6oA?usp=sharing"
         class="home-btn"
@@ -36,7 +33,6 @@
   background-position: center;
   background-attachment: fixed;
 }
-
 .home h2 {
   color: #fff;
   font-size: 1.4em;
@@ -58,10 +54,6 @@
   letter-spacing: 1px;
   margin-top: 10px;
   margin-bottom: 30px;
-}
-
-.home h3 span {
-  font-style: italic;
 }
 
 .home-btn {
