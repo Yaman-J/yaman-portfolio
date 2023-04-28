@@ -6,13 +6,13 @@
       <a href="#about">About Me</a>
       <a href="#services">Services</a>
       <a href="#contact">Contact Me</a>
-			<a href="" class="language-switch">AR</a>
+      <a href="" class="language-switch">AR</a>
     </nav>
   </header>
 </template>
 
 <style scoped>
-header{
+header {
   background-color: #fbfaf5;
   width: 100%;
   position: fixed;
@@ -23,7 +23,7 @@ header{
   padding: 10px 40px;
 }
 
-.logo{
+.logo {
   text-decoration: none;
   color: #ff0000;
   text-transform: uppercase;
@@ -31,7 +31,7 @@ header{
   font-size: 1.8em;
 }
 
-.navigation a{
+.navigation a {
   color: #ff0000;
   text-decoration: none;
   font-size: 1.1em;
@@ -39,11 +39,11 @@ header{
   padding-left: 30px;
 }
 
-.navigation a:hover{
+.navigation a:hover {
   color: #da0000;
 }
 
-.navigation .language-switch{
+.navigation .language-switch {
   color: #000;
   font-size: 0.8em;
   font-weight: 600;

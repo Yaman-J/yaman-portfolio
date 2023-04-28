@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css");
 
-*{
+* {
   font-family: "Poppins";
   margin: 0;
   padding: 0;
@@ -42,7 +42,7 @@ section {
 }
 
 .content {
-  display: flex; 
+  display: flex;
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
@@ -72,7 +72,7 @@ section {
   text-align: center;
 }
 
-.info h3{
+.info h3 {
   color: #ff0000;
   font-size: 1.2em;
   font-weight: 600;
@@ -86,7 +86,7 @@ section {
 }
 
 .contact-box {
-  display: flex; 
+  display: flex;
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
@@ -99,7 +99,7 @@ section {
   font-size: 1.3em;
 }
 
-.contact-box .info h3{
+.contact-box .info h3 {
   color: #000;
 }
 
@@ -114,12 +114,12 @@ section {
   color: #fff;
 }
 
-@media(max-width: 1023px) {
+@media (max-width: 1023px) {
   header {
     padding: 12px;
   }
 
-.title {
+  .title {
     font-size: 1.8em;
   }
 
@@ -127,11 +127,11 @@ section {
     padding: 80px 20px;
   }
 
-  .home h2{
+  .home h2 {
     font-size: 1em;
   }
 
-  .home h3{
+  .home h3 {
     font-size: 1.6em;
   }
 
@@ -146,21 +146,21 @@ section {
   }
 }
 
-@media(max-width: 641px) {
+@media (max-width: 641px) {
   body {
     font-size: 12px;
   }
 
-  .home h2{
+  .home h2 {
     font-size: 0.8em;
   }
 
-  .home h3{
+  .home h3 {
     font-size: 1.4em;
   }
 }
 
-@media(max-width: 300px) {
+@media (max-width: 300px) {
   body {
     font-size: 10px;
   }

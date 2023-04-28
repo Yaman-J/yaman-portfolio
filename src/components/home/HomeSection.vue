@@ -2,14 +2,19 @@
   <section class="home" id="home">
     <div>
       <h2>
-				Hello, I'm Yaman
-				<br>
-				<span>Freelancer</span>
-			</h2>
-      <h3>❝A man who stands for nothing will fall for anything❞
-				<span>-Malcolm X</span>
-			</h3>
-      <a href="https://drive.google.com/drive/folders/147lYgZwdTm_D26ReLPeTqziyq2BRZ6oA?usp=sharing" class="home-btn">View My Work</a>
+        Hello, I'm Yaman
+        <br />
+        <span>Freelancer</span>
+      </h2>
+      <h3>
+        ❝A man who stands for nothing will fall for anything❞
+        <span>-Malcolm X</span>
+      </h3>
+      <a
+        href="https://drive.google.com/drive/folders/147lYgZwdTm_D26ReLPeTqziyq2BRZ6oA?usp=sharing"
+        class="home-btn"
+        >View My Work</a
+      >
 
       <div class="social-icons">
         <a href="https://www.youtube.com/@yaman2010"><i class="fa-brands fa-youtube"></i></a>
@@ -21,7 +26,7 @@
 </template>
 
 <style scoped>
-.home{
+.home {
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -32,13 +37,13 @@
   background-attachment: fixed;
 }
 
-.home h2{
+.home h2 {
   color: #fff;
   font-size: 1.4em;
   font-weight: 500;
 }
 
-.home h2 span{
+.home h2 span {
   display: inline-block;
   margin-top: 10px;
   color: #ff0000;
@@ -46,7 +51,7 @@
   font-weight: 700;
 }
 
-.home h3{
+.home h3 {
   color: #f0f0f0;
   font-size: 1.3em;
   font-weight: 400;
@@ -55,11 +60,11 @@
   margin-bottom: 30px;
 }
 
-.home h3 span{
+.home h3 span {
   font-style: italic;
 }
 
-.home-btn{
+.home-btn {
   color: #f0f0f0;
   background-color: #ff0000;
   text-decoration: none;
@@ -73,12 +78,12 @@
   transition: 0.7s ease;
 }
 
-.home-btn:hover{
+.home-btn:hover {
   background-color: #da0000;
   transform: scale(1.1);
 }
 
-.social-icons a{
+.social-icons a {
   color: #fff;
   font-size: 1.7em;
   padding-right: 30px;

@@ -11,7 +11,7 @@
 </template>
 
 <style scoped>
-.footer{
+.footer {
   background-color: #000;
   color: #fff;
   padding: 1em;
@@ -19,16 +19,16 @@
   justify-content: space-between;
 }
 
-.footer-title{
+.footer-title {
   font-size: 1.3em;
   font-weight: 600;
 }
 
-.footer-title span{
+.footer-title span {
   color: #ff0000;
 }
 
-.social-icons a{
+.social-icons a {
   color: #fff;
   font-size: 1.7em;
   padding-right: 30px;
