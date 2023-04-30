@@ -1,5 +1,8 @@
+<script>
+</script>
+
 <template>
-  <header>
+  <header dir="rtl">
     <a href="#" class="logo">Yaman</a>
     <nav class="navigation">
       <a href="#home">Home</a>
