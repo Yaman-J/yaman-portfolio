@@ -3,13 +3,13 @@
 
 <template>
   <header dir="rtl">
-    <a href="#" class="logo">Yaman</a>
+    <a href="#" class="logo">{{$t('Yaman')}}</a>
     <nav class="navigation">
-      <a href="#home">Home</a>
-      <a href="#about">About Me</a>
-      <a href="#services">Services</a>
-      <a href="#contact">Contact Me</a>
-      <a href="" class="language-switch">AR</a>
+      <a href="#home">{{$t('Nav.Home')}}</a>
+      <a href="#about">{{$t('Nav.About')}}</a>
+      <a href="#services">{{$t('Nav.Services')}}</a>
+      <a href="#contact">{{$t('Nav.Contact')}}</a>
+      <a href="" class="language-switch">{{$t('Nav.Lang')}}</a>
     </nav>
   </header>
 </template>

@@ -2,15 +2,15 @@
   <section class="home" id="home" dir="rtl">
     <div>
       <h2>
-        Welcome to
+        {{$t('Home.Welcometo')}}
         <br />
-        <span>Yaman Website</span>
+        <span>{{$t('Home.YamanWebsite')}}</span>
       </h2>
-      <h3>Programmer, Video Editor, Designer, Freelancer</h3>
+      <h3>{{$t('Home.ProgrammerVideoEditorDesignerFreelancer')}}</h3>
       <a
         href="https://drive.google.com/drive/folders/147lYgZwdTm_D26ReLPeTqziyq2BRZ6oA?usp=sharing"
         class="home-btn"
-        >View My Work</a
+        >{{$t('Home.ViewMyWork')}}</a
       >
 
       <div class="social-icons">

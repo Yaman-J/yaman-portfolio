@@ -1,6 +1,6 @@
 <template>
-  <footer class="footer">
-    <p class="footer-title">Copyrights @ <span>Yaman</span></p>
+  <footer class="footer" dir="rtl">
+    <p class="footer-title">{{$t('Footer.CR')}}<span>{{$t('Footer.Name')}}</span></p>
 
     <div class="social-icons">
       <a href="https://www.youtube.com/@yaman2010"><i class="fa-brands fa-youtube"></i></a>
