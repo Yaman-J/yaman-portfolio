@@ -1,6 +1,6 @@
 <template>
   <section class="contact" id="contact">
-    <h3 class="title">Let's Work Together</h3>
+    <h3 class="title">{{$t('Contact.Title')}}</h3>
 
     <div class="contact-box">
       <div class="card">

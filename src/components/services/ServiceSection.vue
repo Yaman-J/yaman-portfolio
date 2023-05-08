@@ -1,6 +1,6 @@
 <template>
   <section class="cards" id="services">
-    <h2 class="title">Services</h2>
+    <h2 class="title">{{$t('Services.Title')}}</h2>
 
     <div class="content">
       <div class="card">

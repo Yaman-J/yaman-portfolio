@@ -10,10 +10,10 @@ export default {
 	},
 
 	Home: {
-		Welcometo: "Welcome to",
-		YamanWebsite: "Yaman Website",
-		ProgrammerVideoEditorDesignerFreelancer: "Programmer, Video Editor, Designer, Freelancer",
-		ViewMyWork: "View My Work"
+		Welcoming: "Welcome to",
+		WebTitle: "Yaman Portfolio",
+		Skills: "Programmer, Video Editor, Designer, Freelancer",
+		Button: "View My Work"
 	},
 
 	About: {

@@ -1,16 +1,16 @@
 <template>
-  <section class="home" id="home" dir="rtl">
+  <section class="home" id="home">
     <div>
       <h2>
-        {{$t('Home.Welcometo')}}
+        {{$t('Home.Welcoming')}}
         <br />
-        <span>{{$t('Home.YamanWebsite')}}</span>
+        <span>{{$t('Home.WebTitle')}}</span>
       </h2>
-      <h3>{{$t('Home.ProgrammerVideoEditorDesignerFreelancer')}}</h3>
+      <h3>{{$t('Home.Skills')}}</h3>
       <a
         href="https://drive.google.com/drive/folders/147lYgZwdTm_D26ReLPeTqziyq2BRZ6oA?usp=sharing"
         class="home-btn"
-        >{{$t('Home.ViewMyWork')}}</a
+        >{{$t('Home.Button')}}</a
       >
 
       <div class="social-icons">

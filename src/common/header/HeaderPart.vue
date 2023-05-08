@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <header dir="rtl">
+  <header>
     <a href="#" class="logo">{{$t('Yaman')}}</a>
     <nav class="navigation">
       <a href="#home">{{$t('Nav.Home')}}</a>
