@@ -4,7 +4,7 @@
 
     <div class="social-icons">
       <a href="https://www.youtube.com/@yaman2010"><i class="fa-brands fa-youtube"></i></a>
-      <a href="https://discord.com/invite/YzVUCp6C2S"><i class="fa-brands fa-discord"></i></a>
+      <a href="https://discord.com/invite/xMbSAtsYxJ"><i class="fa-brands fa-discord"></i></a>
       <a href="https://github.com/Yaman-J"><i class="fa-brands fa-github"></i></a>
 			<a href="https://www.instagram.com/yamancpu/"><i class="fa-brands fa-instagram"></i></a>
     </div>
