@@ -6,19 +6,6 @@ import I18NextVue from 'i18next-vue';
 import locales from './i18n'
 import "./assets/main.css"
 
-import { reactive } from 'vue'
-
-const language = reactive({
-	lang: 'en',
-	changeLangeuage(){
-		if (lang === 'en') {
-			lang = 'ar'
-		} else {
-			lang = 'en'
-		}
-	}
-})
-
 i18next.init({
   lng: 'en',
   resources: {

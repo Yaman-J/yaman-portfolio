@@ -70,7 +70,8 @@ export default {
 		Title: "Let's Work Together",
 
 		Email: "E-mail",
-		Discord: "Discord"
+		Discord: "Discord",
+		Instagram: "Instagram"
 	},
 
 	Footer: {

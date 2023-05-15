@@ -18,6 +18,14 @@
           <p>Yaman#1196</p>
         </div>
       </div>
+
+			<div class="card">
+        <div class="icon"><i class="fa-brands fa-instagram"></i></div>
+        <div class="info">
+          <h3>{{$t('Contact.Instagram')}}</h3>
+          <p>@yamancpu</p>
+        </div>
+      </div>
     </div>
   </section>
 </template>
