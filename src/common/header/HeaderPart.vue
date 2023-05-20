@@ -1,6 +1,3 @@
-<script>
-</script>
-
 <template>
   <header>
     <a href="#" class="logo">{{$t('Yaman')}}</a>
