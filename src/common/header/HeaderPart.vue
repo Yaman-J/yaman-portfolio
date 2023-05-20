@@ -9,10 +9,22 @@
       <a href="#about">{{$t('Nav.About')}}</a>
       <a href="#services">{{$t('Nav.Services')}}</a>
       <a href="#contact">{{$t('Nav.Contact')}}</a>
-      <a href="" class="language-switch">{{$t('Nav.Lang')}}</a>
+      <a href="" class="language-switch" @click="switchLang">{{$t('Nav.Lang')}}</a>
     </nav>
   </header>
+
 </template>
+
+<script>
+	export default {
+  methods: {
+    switchLang() {
+      
+    }
+  }
+}
+
+</script>
 
 <style scoped>
 header {
