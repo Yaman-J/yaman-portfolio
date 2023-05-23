@@ -3,7 +3,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css");
 
 * {
-  font-family: "Poppins","Noto Sans Arabic";
+	font-family: "Poppins", "Noto Sans Arabic";
   margin: 0;
   padding: 0;
   box-sizing: border-box;

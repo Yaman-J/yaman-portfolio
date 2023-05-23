@@ -20,7 +20,7 @@ export const setHtmlLang = (current) => {
 	const direction = current === 'en' ? 'ltr' : 'rtl';
 
 	htmlTag.setAttribute('dir', direction);
-	htmlTag.setAttribute('lang', this.current);
+	htmlTag.setAttribute('lang', current);
 }
 
 export const language = reactive({
