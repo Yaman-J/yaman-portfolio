@@ -12,7 +12,7 @@ export default {
 	Home: {
 		Welcoming: "Welcome to",
 		WebTitle: "Yaman Portfolio",
-		Skills: "Programmer, Video Editor, Designer, Freelancer",
+		Skills: "Programmer, Content-Creator, Video Editor, Designer, Freelancer",
 		Button: "View My Work"
 	},
 
@@ -32,7 +32,7 @@ export default {
 		S1: {
 			Name: "Research",
 			Description: "Collect Information and write an article for you.",
-			Price: "Price: $15 / Article"
+			Price: "Price: $5 / 200 Words"
 		},
 
 		S2: {
